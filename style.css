@@ -5,15 +5,11 @@ body {
     padding: 0;
 }
 
-h1 {
+h1, h4{
     color: #333;
     text-align: center;
 }
 
-h4 {
-    color: #333;
-    text-align: center;
-}
 
 table {
     width: 60%;
@@ -34,9 +30,6 @@ th, td {
     border-bottom: 1px solid #ddd;
 }
 
-th {
-    text-align: center;
-}
 
 input {
     width: 60px;
@@ -57,5 +50,5 @@ button {
 }
 
 button:hover {
-    background-color: #1a2a3a;
+    background-color: #a8caec;
 }
